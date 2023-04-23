@@ -1,0 +1,16 @@
+- Die Kräfte beim Start muss das System aushalten.
+- Die Strahlung auf der Umlaufbahn muss das System aushalten.
+- Die Temperaturänderung zwischen Erde und Umlaufbahn muss das System aushalten.
+- Wenn ein Wildbrand fotografiert wird, muss dieser erkannt werden.
+- Wenn die Sotfware läuft, muss das System betriebsfähig bleiben.
+- Wenn ein Foto gemacht wird, sollte das Neuronale Netzt nicht erst trainiert werden.
+- Die Software muss in der Programmiersprache Rust geschrieben werden.
+- Das Programm muss auf einem Rasperrypi laufen.
+- Das Programm sollte größtenteils automatisch laufen.
+- Wenn das Programm aufgrufen wird, sollte es schnell die Daten auswerten um die Ressourcen des Sateliten nicht zu belegen.
+- Der Satelite muss eine Kamera haben
+- Nach dem Trainieren sollte das Netz minimiert werden
+- Die Bilder sollten downgescalet werden
+- Zur Aktivierung des Programms sollte nur ein Befehl zum Starten eingeben werden
+- Wenn der Anwender das Programm unterbricht, sollte der Stand zwischengespeichert werden.
+- Wenn der Anwender das Programm beenden will, muss das Programm beendet werden.
